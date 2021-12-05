@@ -1,0 +1,147 @@
+
+ TEST NUMMER   0001
+ DATUM    29-NOV-21
+ APP NR  1234567890
+ TEST MODUS    TEST
+ VISUELE CONTR.   G
+ TESTSTR.AARD. +.2A
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ ISO  >300.00 MEG G
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ A.LEK   00.00 mA G
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR  .    mA V
+ BELAST  0.35 kVA G
+ GEBR.   9876543210
+
+ TEST NUMMER   0002
+ DATUM    29-NOV-21
+ APP NR  2222222222
+ TEST MODUS    TEST
+ VISUELE CONTR.   G
+ TESTSTR.AARD. +.2A
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ ISO  >300.00 MEG G
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ A.LEK   00.00 mA G
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ LEK STR 0.000 mA G
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ BELAST  0.00 kVA G
+ GEBR.   9876543210
+
+ TEST NUMMER   0003
+ DATUM    03-DEC-21
+ APP NR  5555555555
+ TEST MODUS    TEST
+ VISUELE CONTR.   G
+ TESTSTR.AARD.  10A
+ AARD  00.171 OHM F
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ BELAST   .   kVA V
+ GEBR.   0000009045
+
+ TEST NUMMER   0004
+ DATUM    03-DEC-21
+ APP NR  6666666666
+ TEST MODUS    TEST
+ VISUELE CONTR.   G
+ TESTSTR.AARD.  10A
+ AARD  00.106 OHM F
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ LEK STR  .    mA V
+ BELAST   .   kVA V
+ GEBR.   0000009045
+
+ TEST NUMMER   0005
+ DATUM    03-DEC-21
+ APP NR  6666666666
+ TEST MODUS    TEST
+ VISUELE CONTR.   G
+ TESTSTR.AARD.  10A
+ AARD  00.134 OHM G
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ AARD    .    OHM V
+ ISO  >300.00 MEG G
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ ISO      .   MEG V
+ A.LEK   00.84 mA G
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ A.LEK     .   mA V
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR 0.000 mA G
+ LEK STR  .    mA V
+ BELAST  0.06 kVA G
+ GEBR.   0000009045
+
+ EINDE GEGEVENS    
